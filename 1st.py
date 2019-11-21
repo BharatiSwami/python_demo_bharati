@@ -6,5 +6,5 @@ sub=a-b
 mult=a*b
 print(sum)
 print(sub)
-print(div)
+print(mult)
 print("added lines to git account")
